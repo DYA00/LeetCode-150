@@ -1,4 +1,4 @@
-//Solution for the problem, Two Sum in the leetcode.
+//Solution for the problem, Two Sum in the Arrays & Hashing.
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
